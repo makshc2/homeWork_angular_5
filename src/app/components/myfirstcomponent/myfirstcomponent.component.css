@@ -1,0 +1,11 @@
+.wrapper{
+  max-width: 30%;
+  margin: 0 auto;
+}
+.content{
+  text-align: center;
+}
+.technologies, .hobbies{
+  display: flex;
+  flex-direction: column;
+}
