@@ -15,9 +15,9 @@ user: User = {
   age: 29
 };
 
-stack: Stack[{}];
+stack: Stack[];
 
-hobby: Hobby[{}];
+hobby: Hobby[];
 
 clickMessage = '';
 

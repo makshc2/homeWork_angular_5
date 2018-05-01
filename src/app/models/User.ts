@@ -5,10 +5,10 @@ export interface User {
 }
 
 export interface Stack {
-  stack: [{string: string}];
+  label: string;
 }
 
 export interface Hobby {
-  hobby: [{string: string}];
+  name: string;
 }
 
